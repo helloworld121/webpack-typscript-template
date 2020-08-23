@@ -1,0 +1,23 @@
+{
+  "name": "webpack-typscript-template",
+  "version": "0.0.1",
+  "description": "template project including webpack and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloworld121/webpack-typscript-template.git"
+  },
+  "keywords": [
+    "webpack",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloworld121/webpack-typscript-template/issues"
+  },
+  "homepage": "https://github.com/helloworld121/webpack-typscript-template#readme"
+}
