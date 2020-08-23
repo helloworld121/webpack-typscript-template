@@ -29,13 +29,11 @@ module.exports = {
             /****************
              * PRE-LOADERS
              *****************/
-            /*
             {
                 enforce: 'pre',
                 test: /\.js$/,
                 use: 'source-map-loader'
             },
-             */
             {
                 enforce: 'pre',
                 test: /\.ts$/,
